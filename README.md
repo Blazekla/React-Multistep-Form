@@ -1,3 +1,5 @@
+Creating a multi step form followig Traversy Media's tutorial https://www.youtube.com/watch?v=zT62eVxShsY&t=351s.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
